@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(45deg, rgba(248, 242, 228, 0.767), rgba(243, 229, 204, 0.527), rgba(247, 244, 238, 0.527));
+}
+.col-1{
+    border: 2px Solid gray;
+     border-radius: 50% 50%;
+      width: 500px;
+       height: 400px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+}
+.col-2{
+    border: 2px Solid gray;
+    border-radius: 50% 50%;
+     width: 500px;
+      height: 400px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+.col-3{
+    border: 2px Solid gray;
+    border-radius: 50% 50%;
+     width: 500px;
+      height: 400px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(195, 0, 255);
+}
+a:hover{
+    color: rgb(241, 0, 0);
+    
+}
